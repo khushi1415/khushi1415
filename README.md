@@ -3,7 +3,7 @@
 
 
 🔭 Pre-final year undergrad at VIT Bhopal pursuing Computer Science and Engineering with specialization in Cyber Security and Digital Forensics. \
-💻 Java | Python | HTML | CSS | C++ | PHP. \
+💻 Linux | HTML | CSS | C++ | Python. \
 🌱 I’m currently learning Cyber Security and Web Development. \
 ⚡ Member of the winning team in GeekWeekLocal: GWL hackathon 2021 by GeeksForGeeks. 
 
